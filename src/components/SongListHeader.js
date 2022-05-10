@@ -6,9 +6,6 @@ const SongListHeader = () => {
             <div className="index">#</div>
             <div className="name">Titel</div>
             <div className="author">Zanger</div>
-            <div className="selector">
-                <i className="fas fa-chevron-down"></i>
-            </div>
         </div>
     );
 };

@@ -24,13 +24,6 @@ const SongDetail = ({
               alt={songs[selectedSongId].name}
             /> */}
           </div>
-          <div className="artist-img">
-            <img
-              src={songs[selectedSongId].links.images[0].url}
-              alt={songs[selectedSongId].author}
-            />
-            <p className="artist-name">{songs[selectedSongId].author}</p>
-          </div>
         </>
       );
     } else {

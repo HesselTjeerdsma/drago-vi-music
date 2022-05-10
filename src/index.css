@@ -33,6 +33,12 @@ code {
     grid-template-rows: repeat(8, 1fr);
 }
 
+@media (max-width: 720px) {
+    .song-detail {
+        grid-template-columns: 100%;
+    }
+}
+
 #active {
     color: yellow;
 }
@@ -41,12 +47,4 @@ code {
     font-weight: 400;
     font-size: 1.6rem;
     display: none;
-}
-@media (max-width: 720px) {
-    #root {
-        display: none;
-    }
-    #resolution-warning {
-        display: block;
-    }
 }
