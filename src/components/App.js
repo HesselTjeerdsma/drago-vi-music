@@ -1,5 +1,6 @@
 import React from "react";
 import "./App.css";
+import CurrentArtist from "./CurrentArtist";
 import NavBar from "./NavBar";
 import Player from "./Player";
 import SongList from "./SongList";
@@ -18,6 +19,7 @@ const App = () => {
             <NavBar />
             <SongListHeader />
             <SongDetail />
+            <CurrentArtist songs={songs} />
             <SongList songs={songs} />
             <Player />
             <a href="#focused" id="focus-link" hidden>

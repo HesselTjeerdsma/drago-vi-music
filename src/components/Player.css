@@ -13,7 +13,7 @@ i.fas,
 svg {
     color: #94a3b8;
     font-size: 1.5rem;
-    margin: 0px 3rem;
+    margin: 0px 2vw;
     transition: all 0.19s ease-in-out;
 }
 #active > svg {
@@ -27,10 +27,6 @@ i.fas.fa-pause-circle {
 .main-control > i {
     color: #e2e8f0;
 }
-
-/* #player:hover {
-    cursor: pointer;
-} */
 
 .main-control > i:hover,
 .control > svg:hover {

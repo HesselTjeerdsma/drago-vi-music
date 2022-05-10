@@ -1,0 +1,30 @@
+.current-artist {
+    grid-row: 7/8;
+    grid-column: 1/13;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+        
+.album-img > img {
+    height: 100%;
+}
+.album-img {
+    height: 100%;
+    width: 100%;    
+}
+.current-artist > img {
+height: 64px;
+border-radius: 1000%;
+}
+
+.current-artist > .artist-name {
+color: white;
+}
+
+@media (min-width: 720px) {
+    .current-artist {
+        display: none;
+    }
+}
