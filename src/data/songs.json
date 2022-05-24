@@ -2,7 +2,7 @@
     {
         "name": "Pilsje",
         "author": "Drago ft. Renee",
-        "url": "https://drago.b-cdn.net/Pilsje.mp3",
+        "url": "https://drago.b-cdn.net/final/Pilsje.mp3",
         "id": 1,
         "links": {
             "images": [
@@ -18,7 +18,7 @@
     {
         "name": "VVD",
         "author": "Drago ft. Gijs",
-        "url": "https://drago.b-cdn.net/VVD.mp3",
+        "url": "https://drago.b-cdn.net/final/VVD.mp3",
         "id": 2,
         "links": {
             "images": [
@@ -34,7 +34,7 @@
     {
         "name": "Leven op de Soos",
         "author": "Drago ft. Reinier",
-        "url": "https://drago.b-cdn.net/Leven%20op%20de%20soos.mp3",
+        "url": "https://drago.b-cdn.net/final/Leven%20op%20de%20soos.mp3",
         "id": 3,
         "links": {
             "images": [
@@ -50,7 +50,7 @@
     {
         "name": "Eitje zijn",
         "author": "Drago ft. Reinier",
-        "url": "https://drago.b-cdn.net/Ik%20ben%20niet%20meer%20een%20ei.mp3",
+        "url": "https://drago.b-cdn.net/final/Ik%20ben%20niet%20meer%20een%20ei.mp3",
         "id": 5,
         "links": {
             "images": [
@@ -66,7 +66,55 @@
     {
         "name": "Kansloos",
         "author": "Drago ft. Gijs",
-        "url": "https://drago.b-cdn.net/Kansloos.mp3",
+        "url": "https://drago.b-cdn.net/final/Kansloos.mp3",
+        "id": 6,
+        "links": {
+            "images": [
+                {
+                    "url": "/drago-lustrum-cover.png"
+                },
+                {
+                    "url": "/drago-lustrum-cover.png"
+                }
+            ]
+        }
+    },
+    {
+        "name": "30 Jaar",
+        "author": "Drago ft. Reinier",
+        "url": "https://drago.b-cdn.net/final/30%20jaar.mp3",
+        "id": 7,
+        "links": {
+            "images": [
+                {
+                    "url": "/drago-lustrum-cover.png"
+                },
+                {
+                    "url": "/drago-lustrum-cover.png"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Trek een bak",
+        "author": "Drago ft. Gijs",
+        "url": "https://drago.b-cdn.net/final/Hoe%20dan%20ook%20je%20trekt%20een%20bak.mp3",
+        "id": 8,
+        "links": {
+            "images": [
+                {
+                    "url": "/drago-lustrum-cover.png"
+                },
+                {
+                    "url": "/drago-lustrum-cover.png"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kom laten we batsen",
+        "author": "Drago ft. Renee",
+        "url": "https://drago.b-cdn.net/final/Kom%20laten%20we%20batsen.mp3",
         "id": 6,
         "links": {
             "images": [
